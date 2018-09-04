@@ -1002,3 +1002,157 @@ LogInit: Object subsystem initialized
 [2018.09.04-19.57.39:743][908]LogSavePackage: Save=5.99ms
 [2018.09.04-19.57.39:743][908]LogSavePackage: Moving '../../../../../../Users/marka/Documents/Unreal Projects/NightLive/nightnigh/MyProject2/Saved/Builder_BuiltDataC4FD0463484F6868A17692874CAE35D1.tmp' to '../../../../../../Users/marka/Documents/Unreal Projects/NightLive/nightnigh/MyProject2/Content/Builder_BuiltData.uasset'
 [2018.09.04-19.57.39:744][908]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/marka/Documents/Unreal Projects/NightLive/nightnigh/MyProject2/Content/Builder_BuiltData.uasset
+[2018.09.04-20.07.40:232][918]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/Builder' took 0.012
+[2018.09.04-20.07.40:234][918]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/SM_MERGED_Cube_18] ([1] browsable assets)...
+[2018.09.04-20.07.40:245][918]OBJ SavePackage:     Rendered thumbnail for [StaticMesh /Game/SM_MERGED_Cube_18.SM_MERGED_Cube_18]
+[2018.09.04-20.07.40:245][918]OBJ SavePackage: Finished generating thumbnails for package [/Game/SM_MERGED_Cube_18]
+[2018.09.04-20.07.40:257][918]LogSavePackage: Save=9.97ms
+[2018.09.04-20.07.40:257][918]LogSavePackage: Moving '../../../../../../Users/marka/Documents/Unreal Projects/NightLive/nightnigh/MyProject2/Saved/SM_MERGED_Cube_18_Auto2684459944EDC2C676D2C22B0D395E3D3.tmp' to '../../../../../../Users/marka/Documents/Unreal Projects/NightLive/nightnigh/MyProject2/Saved/Autosaves/Game/SM_MERGED_Cube_18_Auto2.uasset'
+[2018.09.04-20.07.40:259][918]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/marka/Documents/Unreal Projects/NightLive/nightnigh/MyProject2/Saved/Autosaves/Game/SM_MERGED_Cube_18_Auto2.uasset
+[2018.09.04-20.07.40:260][918]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Builder/Escalier+palier] ([1] browsable assets)...
+[2018.09.04-20.07.40:273][918]OBJ SavePackage:     Rendered thumbnail for [StaticMesh /Game/Builder/Escalier+palier.Escalier+palier]
+[2018.09.04-20.07.40:273][918]OBJ SavePackage: Finished generating thumbnails for package [/Game/Builder/Escalier+palier]
+[2018.09.04-20.07.40:283][918]LogSavePackage: Save=8.20ms
+[2018.09.04-20.07.40:283][918]LogSavePackage: Moving '../../../../../../Users/marka/Documents/Unreal Projects/NightLive/nightnigh/MyProject2/Saved/Escalier+palier_Auto2AD94DDE54529C86053FCD9A1BC0DCCB0.tmp' to '../../../../../../Users/marka/Documents/Unreal Projects/NightLive/nightnigh/MyProject2/Saved/Autosaves/Game/Builder/Escalier+palier_Auto2.uasset'
+[2018.09.04-20.07.40:284][918]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/marka/Documents/Unreal Projects/NightLive/nightnigh/MyProject2/Saved/Autosaves/Game/Builder/Escalier+palier_Auto2.uasset
+[2018.09.04-20.07.40:284][918]LogFileHelpers: Auto-saving content packages took 0.052
+[2018.09.04-20.23.14:065][834]LogLinker: Warning: Can't find file '/Game/Material/Child_Material/M_bush_basic_Inst'
+[2018.09.04-20.23.14:065][834]LogLinker: Warning: Can't find file for asset '/Game/Material/Child_Material/M_bush_basic_Inst' while loading ../../../../../../Users/marka/Documents/Unreal Projects/NightLive/nightnigh/MyProject2/Content/VegetationPack/Meshes/Bush/SM_bush2.uasset.
+[2018.09.04-20.23.14:066][834]LoadErrors: Error: /Game/VegetationPack/Meshes/Bush/SM_bush2 : Can't find file for asset. /Game/Material/Child_Material/M_bush_basic_Inst
+[2018.09.04-20.23.14:066][834]LogLinker: Warning: Can't find file '/Game/Material/Child_Material/M_bush_basic_Inst'
+[2018.09.04-20.23.14:066][834]LogLinker: Warning: Can't find file for asset '/Game/Material/Child_Material/M_bush_basic_Inst' while loading ../../../../../../Users/marka/Documents/Unreal Projects/NightLive/nightnigh/MyProject2/Content/VegetationPack/Meshes/Bush/SM_bush2.uasset.
+[2018.09.04-20.23.14:066][834]LogLinker: Warning: Can't find file '/Game/Material/Child_Material/M_bush_basic_Inst'
+[2018.09.04-20.23.14:066][834]LoadErrors: Failed to load /Game/Material/Child_Material/M_bush_basic_Inst.M_bush_basic_Inst Referenced by SM_bush2
+[2018.09.04-20.23.14:066][834]LogLinker: Warning: Can't find file for asset '/Game/Material/Child_Material/M_bush_basic_Inst' while loading NULL.
+[2018.09.04-20.23.14:067][834]LogStaticMesh: Building static mesh SM_bush2...
+[2018.09.04-20.23.14:163][834]LogStaticMesh: Built static mesh [0.10s] /Game/VegetationPack/Meshes/Bush/SM_bush2.SM_bush2
+[2018.09.04-20.23.14:211][838]LogActorFactory: Actor Factory created SM_bush2
+[2018.09.04-20.23.14:998][930]LogActorFactory: Actor Factory created SM_bush2
+[2018.09.04-20.23.51:021][214]LogLinker: Warning: Can't find file '/Game/Material/Master_Material/M_grass_advanced'
+[2018.09.04-20.23.51:021][214]LogLinker: Warning: Can't find file for asset '/Game/Material/Master_Material/M_grass_advanced' while loading ../../../../../../Users/marka/Documents/Unreal Projects/NightLive/nightnigh/MyProject2/Content/VegetationPack/Material/Child_Material/M_bush_advanced_Inst.uasset.
+[2018.09.04-20.23.51:021][214]LoadErrors: Error: /Game/VegetationPack/Material/Child_Material/M_bush_advanced_Inst : Can't find file for asset. /Game/Material/Master_Material/M_grass_advanced
+[2018.09.04-20.23.51:021][214]LogLinker: Warning: Can't find file '/Game/Material/Master_Material/M_grass_advanced'
+[2018.09.04-20.23.51:021][214]LogLinker: Warning: Can't find file for asset '/Game/Material/Master_Material/M_grass_advanced' while loading ../../../../../../Users/marka/Documents/Unreal Projects/NightLive/nightnigh/MyProject2/Content/VegetationPack/Material/Child_Material/M_bush_advanced_Inst.uasset.
+[2018.09.04-20.23.51:021][214]LogLinker: Warning: Can't find file '/Game/Textures/tex_variation_diff'
+[2018.09.04-20.23.51:021][214]LogLinker: Warning: Can't find file for asset '/Game/Textures/tex_variation_diff' while loading ../../../../../../Users/marka/Documents/Unreal Projects/NightLive/nightnigh/MyProject2/Content/VegetationPack/Material/Child_Material/M_bush_advanced_Inst.uasset.
+[2018.09.04-20.23.51:021][214]LoadErrors: Error: /Game/VegetationPack/Material/Child_Material/M_bush_advanced_Inst : Can't find file for asset. /Game/Textures/tex_variation_diff
+[2018.09.04-20.23.51:021][214]LogLinker: Warning: Can't find file '/Game/Textures/Trees/tex_leaves_diff'
+[2018.09.04-20.23.51:021][214]LogLinker: Warning: Can't find file for asset '/Game/Textures/Trees/tex_leaves_diff' while loading ../../../../../../Users/marka/Documents/Unreal Projects/NightLive/nightnigh/MyProject2/Content/VegetationPack/Material/Child_Material/M_bush_advanced_Inst.uasset.
+[2018.09.04-20.23.51:021][214]LoadErrors: Error: /Game/VegetationPack/Material/Child_Material/M_bush_advanced_Inst : Can't find file for asset. /Game/Textures/Trees/tex_leaves_diff
+[2018.09.04-20.23.51:022][214]LogLinker: Warning: Can't find file '/Game/Textures/tex_variation_diff'
+[2018.09.04-20.23.51:022][214]LogLinker: Warning: Can't find file for asset '/Game/Textures/tex_variation_diff' while loading ../../../../../../Users/marka/Documents/Unreal Projects/NightLive/nightnigh/MyProject2/Content/VegetationPack/Material/Child_Material/M_bush_advanced_Inst.uasset.
+[2018.09.04-20.23.51:022][214]LogLinker: Warning: Can't find file '/Game/Textures/Trees/tex_leaves_diff'
+[2018.09.04-20.23.51:022][214]LogLinker: Warning: Can't find file for asset '/Game/Textures/Trees/tex_leaves_diff' while loading ../../../../../../Users/marka/Documents/Unreal Projects/NightLive/nightnigh/MyProject2/Content/VegetationPack/Material/Child_Material/M_bush_advanced_Inst.uasset.
+[2018.09.04-20.23.51:022][214]LogLinker: Warning: Can't find file '/Game/Material/Master_Material/M_grass_advanced'
+[2018.09.04-20.23.51:022][214]LoadErrors: Failed to load /Game/Material/Master_Material/M_grass_advanced.M_grass_advanced Referenced by M_bush_advanced_Inst
+[2018.09.04-20.23.51:022][214]LogLinker: Warning: Can't find file for asset '/Game/Material/Master_Material/M_grass_advanced' while loading NULL.
+[2018.09.04-20.23.51:022][214]LogLinker: Warning: Can't find file '/Game/Textures/Trees/tex_leaves_diff'
+[2018.09.04-20.23.51:022][214]LoadErrors: Failed to load /Game/Textures/Trees/tex_leaves_diff.tex_leaves_diff Referenced by M_bush_advanced_Inst
+[2018.09.04-20.23.51:022][214]LogLinker: Warning: Can't find file for asset '/Game/Textures/Trees/tex_leaves_diff' while loading NULL.
+[2018.09.04-20.23.51:022][214]LogLinker: Warning: Can't find file '/Game/Textures/tex_variation_diff'
+[2018.09.04-20.23.51:022][214]LoadErrors: Failed to load /Game/Textures/tex_variation_diff.tex_variation_diff Referenced by M_bush_advanced_Inst
+[2018.09.04-20.23.51:023][214]LogLinker: Warning: Can't find file for asset '/Game/Textures/tex_variation_diff' while loading NULL.
+[2018.09.04-20.23.58:508][105]LogTemp: Repeating last play command: Selected Viewport
+[2018.09.04-20.23.58:517][105]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.09.04-20.23.58:517][105]PIE: New page: PIE session: Builder (Sep 5, 2018, 12:23:58 AM)
+[2018.09.04-20.23.58:517][105]LogPlayLevel: Creating play world package: /Game/UEDPIE_0_Builder
+[2018.09.04-20.23.58:520][105]LogPlayLevel: PIE: StaticDuplicateObject took: (0.002928s)
+[2018.09.04-20.23.58:520][105]LogAIModule: Creating AISystem for world Builder
+[2018.09.04-20.23.58:520][105]LogPlayLevel: PIE: World Init took: (0.000891s)
+[2018.09.04-20.23.58:520][105]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Builder.Builder to /Game/UEDPIE_0_Builder.Builder (0.004048s)
+[2018.09.04-20.23.58:583][105]LogInit: XAudio2 using 'Casque pour téléphone (5- Corsair VOID Wireless Gaming Dongle)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2018.09.04-20.23.58:592][105]LogInit: FAudioDevice initialized.
+[2018.09.04-20.23.58:626][105]LogLoad: Game class is 'ThirdPersonGameMode_C'
+[2018.09.04-20.23.58:628][105]LogWorld: Bringing World /Game/UEDPIE_0_Builder.Builder up for play (max tick rate 0) at 2018.09.04-22.23.58
+[2018.09.04-20.23.58:628][105]LogWorld: Bringing up level for play took: 0.000836
+[2018.09.04-20.23.58:630][105]PIE: Play in editor start time for /Game/UEDPIE_0_Builder 0.316
+[2018.09.04-20.24.02:808][598]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_bush2)
+[2018.09.04-20.24.06:913][ 85]Cmd: TRANSACTION UNDO
+[2018.09.04-20.24.06:913][ 85]LogEditorTransaction: Undo Clicking on Actors
+[2018.09.04-20.24.08:556][281]Cmd: TRANSACTION UNDO
+[2018.09.04-20.24.08:556][281]LogEditorTransaction: Undo Move Actors
+[2018.09.04-20.24.09:315][372]Cmd: TRANSACTION UNDO
+[2018.09.04-20.24.09:315][372]LogEditorTransaction: Undo Replace component used material
+[2018.09.04-20.24.11:481][631]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_bush2)
+[2018.09.04-20.24.20:001][646]LogLinker: Warning: Can't find file '/Game/Material/Master_Material/M_grass_basic'
+[2018.09.04-20.24.20:001][646]LogLinker: Warning: Can't find file for asset '/Game/Material/Master_Material/M_grass_basic' while loading ../../../../../../Users/marka/Documents/Unreal Projects/NightLive/nightnigh/MyProject2/Content/VegetationPack/Material/Child_Material/M_bush_basic_Inst.uasset.
+[2018.09.04-20.24.20:001][646]LoadErrors: Error: /Game/VegetationPack/Material/Child_Material/M_bush_basic_Inst : Can't find file for asset. /Game/Material/Master_Material/M_grass_basic
+[2018.09.04-20.24.20:001][646]LogLinker: Warning: Can't find file '/Game/Material/Master_Material/M_grass_basic'
+[2018.09.04-20.24.20:001][646]LogLinker: Warning: Can't find file for asset '/Game/Material/Master_Material/M_grass_basic' while loading ../../../../../../Users/marka/Documents/Unreal Projects/NightLive/nightnigh/MyProject2/Content/VegetationPack/Material/Child_Material/M_bush_basic_Inst.uasset.
+[2018.09.04-20.24.20:001][646]LogLinker: Warning: Can't find file '/Game/Textures/Trees/tex_leaves_diff'
+[2018.09.04-20.24.20:001][646]LogLinker: Warning: Can't find file for asset '/Game/Textures/Trees/tex_leaves_diff' while loading ../../../../../../Users/marka/Documents/Unreal Projects/NightLive/nightnigh/MyProject2/Content/VegetationPack/Material/Child_Material/M_bush_basic_Inst.uasset.
+[2018.09.04-20.24.20:001][646]LoadErrors: Error: /Game/VegetationPack/Material/Child_Material/M_bush_basic_Inst : Can't find file for asset. /Game/Textures/Trees/tex_leaves_diff
+[2018.09.04-20.24.20:001][646]LogLinker: Warning: Can't find file '/Game/Textures/Trees/tex_leaves_diff'
+[2018.09.04-20.24.20:001][646]LogLinker: Warning: Can't find file for asset '/Game/Textures/Trees/tex_leaves_diff' while loading ../../../../../../Users/marka/Documents/Unreal Projects/NightLive/nightnigh/MyProject2/Content/VegetationPack/Material/Child_Material/M_bush_basic_Inst.uasset.
+[2018.09.04-20.24.20:002][646]LogLinker: Warning: Can't find file '/Game/Material/Master_Material/M_grass_basic'
+[2018.09.04-20.24.20:002][646]LoadErrors: Failed to load /Game/Material/Master_Material/M_grass_basic.M_grass_basic Referenced by M_bush_basic_Inst
+[2018.09.04-20.24.20:002][646]LogLinker: Warning: Can't find file for asset '/Game/Material/Master_Material/M_grass_basic' while loading NULL.
+[2018.09.04-20.24.20:002][646]LogLinker: Warning: Can't find file '/Game/Textures/Trees/tex_leaves_diff'
+[2018.09.04-20.24.20:002][646]LoadErrors: Failed to load /Game/Textures/Trees/tex_leaves_diff.tex_leaves_diff Referenced by M_bush_basic_Inst
+[2018.09.04-20.24.20:002][646]LogLinker: Warning: Can't find file for asset '/Game/Textures/Trees/tex_leaves_diff' while loading NULL.
+[2018.09.04-20.24.33:025][198]LogLinker: Warning: Can't find file '/Game/Material/Master_Material/M_grass_pro'
+[2018.09.04-20.24.33:025][198]LogLinker: Warning: Can't find file for asset '/Game/Material/Master_Material/M_grass_pro' while loading ../../../../../../Users/marka/Documents/Unreal Projects/NightLive/nightnigh/MyProject2/Content/VegetationPack/Material/Child_Material/M_bush_pro_Inst.uasset.
+[2018.09.04-20.24.33:025][198]LoadErrors: Error: /Game/VegetationPack/Material/Child_Material/M_bush_pro_Inst : Can't find file for asset. /Game/Material/Master_Material/M_grass_pro
+[2018.09.04-20.24.33:025][198]LogLinker: Warning: Can't find file '/Game/Material/Master_Material/M_grass_pro'
+[2018.09.04-20.24.33:025][198]LogLinker: Warning: Can't find file for asset '/Game/Material/Master_Material/M_grass_pro' while loading ../../../../../../Users/marka/Documents/Unreal Projects/NightLive/nightnigh/MyProject2/Content/VegetationPack/Material/Child_Material/M_bush_pro_Inst.uasset.
+[2018.09.04-20.24.33:025][198]LogLinker: Warning: Can't find file '/Game/Textures/tex_snow_diff'
+[2018.09.04-20.24.33:026][198]LogLinker: Warning: Can't find file for asset '/Game/Textures/tex_snow_diff' while loading ../../../../../../Users/marka/Documents/Unreal Projects/NightLive/nightnigh/MyProject2/Content/VegetationPack/Material/Child_Material/M_bush_pro_Inst.uasset.
+[2018.09.04-20.24.33:026][198]LoadErrors: Error: /Game/VegetationPack/Material/Child_Material/M_bush_pro_Inst : Can't find file for asset. /Game/Textures/tex_snow_diff
+[2018.09.04-20.24.33:026][198]LogLinker: Warning: Can't find file '/Game/Textures/tex_snow_mask1'
+[2018.09.04-20.24.33:026][198]LogLinker: Warning: Can't find file for asset '/Game/Textures/tex_snow_mask1' while loading ../../../../../../Users/marka/Documents/Unreal Projects/NightLive/nightnigh/MyProject2/Content/VegetationPack/Material/Child_Material/M_bush_pro_Inst.uasset.
+[2018.09.04-20.24.33:026][198]LoadErrors: Error: /Game/VegetationPack/Material/Child_Material/M_bush_pro_Inst : Can't find file for asset. /Game/Textures/tex_snow_mask1
+[2018.09.04-20.24.33:026][198]LogLinker: Warning: Can't find file '/Game/Textures/tex_variation_diff'
+[2018.09.04-20.24.33:026][198]LogLinker: Warning: Can't find file for asset '/Game/Textures/tex_variation_diff' while loading ../../../../../../Users/marka/Documents/Unreal Projects/NightLive/nightnigh/MyProject2/Content/VegetationPack/Material/Child_Material/M_bush_pro_Inst.uasset.
+[2018.09.04-20.24.33:026][198]LoadErrors: Error: /Game/VegetationPack/Material/Child_Material/M_bush_pro_Inst : Can't find file for asset. /Game/Textures/tex_variation_diff
+[2018.09.04-20.24.33:026][198]LogLinker: Warning: Can't find file '/Game/Textures/Trees/tex_leaves_diff'
+[2018.09.04-20.24.33:026][198]LogLinker: Warning: Can't find file for asset '/Game/Textures/Trees/tex_leaves_diff' while loading ../../../../../../Users/marka/Documents/Unreal Projects/NightLive/nightnigh/MyProject2/Content/VegetationPack/Material/Child_Material/M_bush_pro_Inst.uasset.
+[2018.09.04-20.24.33:026][198]LoadErrors: Error: /Game/VegetationPack/Material/Child_Material/M_bush_pro_Inst : Can't find file for asset. /Game/Textures/Trees/tex_leaves_diff
+[2018.09.04-20.24.33:026][198]LogLinker: Warning: Can't find file '/Game/Textures/tex_snow_diff'
+[2018.09.04-20.24.33:026][198]LogLinker: Warning: Can't find file for asset '/Game/Textures/tex_snow_diff' while loading ../../../../../../Users/marka/Documents/Unreal Projects/NightLive/nightnigh/MyProject2/Content/VegetationPack/Material/Child_Material/M_bush_pro_Inst.uasset.
+[2018.09.04-20.24.33:026][198]LogLinker: Warning: Can't find file '/Game/Textures/tex_snow_mask1'
+[2018.09.04-20.24.33:026][198]LogLinker: Warning: Can't find file for asset '/Game/Textures/tex_snow_mask1' while loading ../../../../../../Users/marka/Documents/Unreal Projects/NightLive/nightnigh/MyProject2/Content/VegetationPack/Material/Child_Material/M_bush_pro_Inst.uasset.
+[2018.09.04-20.24.33:027][198]LogLinker: Warning: Can't find file '/Game/Textures/tex_variation_diff'
+[2018.09.04-20.24.33:027][198]LogLinker: Warning: Can't find file for asset '/Game/Textures/tex_variation_diff' while loading ../../../../../../Users/marka/Documents/Unreal Projects/NightLive/nightnigh/MyProject2/Content/VegetationPack/Material/Child_Material/M_bush_pro_Inst.uasset.
+[2018.09.04-20.24.33:027][198]LogLinker: Warning: Can't find file '/Game/Textures/Trees/tex_leaves_diff'
+[2018.09.04-20.24.33:027][198]LogLinker: Warning: Can't find file for asset '/Game/Textures/Trees/tex_leaves_diff' while loading ../../../../../../Users/marka/Documents/Unreal Projects/NightLive/nightnigh/MyProject2/Content/VegetationPack/Material/Child_Material/M_bush_pro_Inst.uasset.
+[2018.09.04-20.24.33:027][198]LogLinker: Warning: Can't find file '/Game/Material/Master_Material/M_grass_pro'
+[2018.09.04-20.24.33:027][198]LoadErrors: Failed to load /Game/Material/Master_Material/M_grass_pro.M_grass_pro Referenced by M_bush_pro_Inst
+[2018.09.04-20.24.33:027][198]LogLinker: Warning: Can't find file for asset '/Game/Material/Master_Material/M_grass_pro' while loading NULL.
+[2018.09.04-20.24.33:027][198]LogLinker: Warning: Can't find file '/Game/Textures/Trees/tex_leaves_diff'
+[2018.09.04-20.24.33:027][198]LoadErrors: Failed to load /Game/Textures/Trees/tex_leaves_diff.tex_leaves_diff Referenced by M_bush_pro_Inst
+[2018.09.04-20.24.33:027][198]LogLinker: Warning: Can't find file for asset '/Game/Textures/Trees/tex_leaves_diff' while loading NULL.
+[2018.09.04-20.24.33:027][198]LogLinker: Warning: Can't find file '/Game/Textures/tex_snow_diff'
+[2018.09.04-20.24.33:027][198]LoadErrors: Failed to load /Game/Textures/tex_snow_diff.tex_snow_diff Referenced by M_bush_pro_Inst
+[2018.09.04-20.24.33:028][198]LogLinker: Warning: Can't find file for asset '/Game/Textures/tex_snow_diff' while loading NULL.
+[2018.09.04-20.24.33:028][198]LogLinker: Warning: Can't find file '/Game/Textures/tex_snow_mask1'
+[2018.09.04-20.24.33:028][198]LoadErrors: Failed to load /Game/Textures/tex_snow_mask1.tex_snow_mask1 Referenced by M_bush_pro_Inst
+[2018.09.04-20.24.33:028][198]LogLinker: Warning: Can't find file for asset '/Game/Textures/tex_snow_mask1' while loading NULL.
+[2018.09.04-20.24.33:028][198]LogLinker: Warning: Can't find file '/Game/Textures/tex_variation_diff'
+[2018.09.04-20.24.33:028][198]LoadErrors: Failed to load /Game/Textures/tex_variation_diff.tex_variation_diff Referenced by M_bush_pro_Inst
+[2018.09.04-20.24.33:028][198]LogLinker: Warning: Can't find file for asset '/Game/Textures/tex_variation_diff' while loading NULL.
+[2018.09.04-20.24.43:093][383]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Floor4)
+[2018.09.04-20.25.14:766][153]LogLinker: Warning: Can't find file '/Game/Textures/Placeholder/tex_diffuse'
+[2018.09.04-20.25.14:766][153]LogLinker: Warning: Can't find file for asset '/Game/Textures/Placeholder/tex_diffuse' while loading ../../../../../../Users/marka/Documents/Unreal Projects/NightLive/nightnigh/MyProject2/Content/VegetationPack/Material/Master_Material/M_grass_advanced.uasset.
+[2018.09.04-20.25.14:766][153]LoadErrors: Error: /Game/VegetationPack/Material/Master_Material/M_grass_advanced : Can't find file for asset. /Game/Textures/Placeholder/tex_diffuse
+[2018.09.04-20.25.14:766][153]LogLinker: Warning: Can't find file '/Game/Textures/Placeholder/tex_diffuse'
+[2018.09.04-20.25.14:766][153]LogLinker: Warning: Can't find file for asset '/Game/Textures/Placeholder/tex_diffuse' while loading ../../../../../../Users/marka/Documents/Unreal Projects/NightLive/nightnigh/MyProject2/Content/VegetationPack/Material/Master_Material/M_grass_advanced.uasset.
+[2018.09.04-20.25.14:767][153]LogLinker: Warning: Can't find file '/Game/Textures/Placeholder/tex_diffuse'
+[2018.09.04-20.25.14:767][153]LoadErrors: Failed to load /Game/Textures/Placeholder/tex_diffuse.tex_diffuse Referenced by MaterialExpressionTextureSampleParameter2D_1
+[2018.09.04-20.25.14:767][153]LogLinker: Warning: Can't find file for asset '/Game/Textures/Placeholder/tex_diffuse' while loading NULL.
+[2018.09.04-20.25.14:767][153]LogLinker: Warning: Can't find file '/Game/Textures/Placeholder/tex_diffuse'
+[2018.09.04-20.25.14:768][153]LoadErrors: Failed to load /Game/Textures/Placeholder/tex_diffuse.tex_diffuse Referenced by MaterialExpressionTextureSampleParameter2D_3
+[2018.09.04-20.25.14:768][153]LogLinker: Warning: Can't find file for asset '/Game/Textures/Placeholder/tex_diffuse' while loading NULL.
+[2018.09.04-20.25.14:771][153]LogMaterial: Missing cached shader map for material M_grass_advanced, compiling. 
+[2018.09.04-20.25.14:772][153]LogMaterial: Warning: C:\Users\marka\Documents\Unreal Projects\NightLive\nightnigh\MyProject2\Content\VegetationPack\Material\Master_Material\M_grass_advanced.uasset: Failed to compile Material for platform PCD3D_SM5, Default Material will be used in game.
+[2018.09.04-20.25.14:772][153]LogMaterial: 	(Node TextureSampleParameter2D) Param2D> Requires Texture2D
+[2018.09.04-20.25.19:881][764]Cmd: TRANSACTION UNDO
+[2018.09.04-20.25.19:881][764]LogEditorTransaction: Undo Replace component used material
+[2018.09.04-20.25.22:400][ 63]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_bush2)
+[2018.09.04-20.25.28:192][430]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Builder" FILE="../../../../../../Users/marka/Documents/Unreal Projects/NightLive/nightnigh/MyProject2/Content/Builder.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2018.09.04-20.25.28:287][430]LogSavePackage: Save=79.38ms
+[2018.09.04-20.25.28:287][430]LogSavePackage: Moving '../../../../../../Users/marka/Documents/Unreal Projects/NightLive/nightnigh/MyProject2/Saved/Builder06F66A02479876CD85E728A8DFB7107B.tmp' to '../../../../../../Users/marka/Documents/Unreal Projects/NightLive/nightnigh/MyProject2/Content/Builder.umap'
+[2018.09.04-20.25.28:290][430]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/marka/Documents/Unreal Projects/NightLive/nightnigh/MyProject2/Content/Builder.umap
+[2018.09.04-20.25.28:303][430]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Builder_BuiltData" FILE="../../../../../../Users/marka/Documents/Unreal Projects/NightLive/nightnigh/MyProject2/Content/Builder_BuiltData.uasset" SILENT=true
+[2018.09.04-20.25.28:314][430]LogSavePackage: Save=6.06ms
+[2018.09.04-20.25.28:314][430]LogSavePackage: Moving '../../../../../../Users/marka/Documents/Unreal Projects/NightLive/nightnigh/MyProject2/Saved/Builder_BuiltData5AC0EB794AEE897CA962B79D53AC39FC.tmp' to '../../../../../../Users/marka/Documents/Unreal Projects/NightLive/nightnigh/MyProject2/Content/Builder_BuiltData.uasset'
+[2018.09.04-20.25.28:316][430]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/marka/Documents/Unreal Projects/NightLive/nightnigh/MyProject2/Content/Builder_BuiltData.uasset
